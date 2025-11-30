@@ -1,0 +1,9 @@
+IOT/*
+
+!IOT/app_uploads.py
+
+App/.gradle/
+App/build/
+App/app/build/
+App/.idea/
+App/local.properties
